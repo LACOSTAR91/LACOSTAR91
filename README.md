@@ -3,7 +3,7 @@
 <!-- https://devicon.dev/ -->
 
 <h1 align="center">👋 Hello everyone, I'm LACOSTAR91!</h1>
-<h3 align="center">16 years old, french developper since 2017</h3>
+<h3 align="center">17 years old, french developper since 2017</h3>
 <br>
 
 <p align="center">
