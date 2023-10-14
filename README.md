@@ -2,13 +2,13 @@
 <!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
 <!-- https://devicon.dev/ -->
 
-<h1 align="center">👋 Hello everyone, I'm LACOSTAR91!</h1>
-<h3 align="center">17 years old, french developper since 2017</h3>
+<h1 align="center" color="#fff">👋 Hello everyone, I'm LACOSTAR91!</h1>
+<h3 align="center" color="#fff">17 years old, french developper since 2017</h3>
 <br>
 
 <p align="center">
   <a align="center" href="https://lacostar.fr" target="_blank">
-    <img align="center" src="https://lanyard.cnrad.dev/api/507329636305207308?bg=0d1117&animated=true"/>
+    <img align="center" src="https://lanyard.cnrad.dev/api/584749055578603521?bg=0d1117&animated=true"/>
     <!-- Original author: https://github.com/LACOSTAR91 -->
   </a>
 </p>
@@ -94,12 +94,12 @@
      <img align="center" alt="Fillezilla" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg">
   
   <hr>
-    <h3>Person who read this repository</h3>
+    <h3>People who read this repository</h3>
     <a href="https://lacostar.fr" target="_blank">
       <img align="center" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=LACOSTAR91&repo=LACOSTAR91&countColorcountColor&countColor=%FFFFFF"/>
     </a>
 
   <hr>
-  Copyright ©️ 2022, <a href="https://github.com/LACOSTAR91">LACOSTAR91</a> (Do not edit the line, keep the original author of this readme)</br>
+  Copyright ©️ 2022-2023, <a href="https://github.com/LACOSTAR91">LACOSTAR91</a> (Do not edit the line, keep the original author of this readme)</br>
   No copy the profile without fork it or keep the copyright. Do not become a skid and respect the work of others.
   <!-- Original author: https://github.com/LACOSTAR91 -->
